@@ -1,0 +1,37 @@
+.cardProducto {
+    width: 18rem;
+    margin: 4px;
+    background-color: #f7f7f7;
+}
+
+.cardBody {
+    background-color: #ffffff;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+img {
+    margin-top: 3px;
+}
+
+.cardProductos {
+    margin:4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemDetail {
+    max-width: 540px;
+    margin-top: 20px;
+}
+.cartContainer {
+    margin-top: 3%;
+    margin-left: 26,5%;
+}
+
+.divButtons button {
+    margin:4px;
+}
+.cardCart {
+    max-width: 640px;
+}
