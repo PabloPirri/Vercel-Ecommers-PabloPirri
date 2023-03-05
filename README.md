@@ -22,5 +22,9 @@ _Luego abra el navegador de preferencia e ingrese a la siguente direccion: _
 * [Firebase] (https://firebase.google.com/) - Firebase (Base de datos)_
 * [Toasyfy] (https://fkhadra.github.io/react-toastify/introduction) - _Notificaciones_
 
+### Puede ver nuestro proyecto terminado en:
+
+_https://vercel-ecommers-pablo-pirri.vercel.app/_
+
 
 
